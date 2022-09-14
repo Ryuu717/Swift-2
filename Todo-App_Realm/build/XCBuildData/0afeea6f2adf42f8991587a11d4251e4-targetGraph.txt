@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+ChameleonFramework in Pods, no dependencies
+Realm in Pods, no dependencies
+RealmSwift in Pods, depends on:
+Realm in Pods (explicit)
+SwipeCellKit in Pods, no dependencies
+Pods-Todoey in Pods, depends on:
+ChameleonFramework in Pods (explicit)
+Realm in Pods (explicit)
+RealmSwift in Pods (explicit)
+SwipeCellKit in Pods (explicit)
